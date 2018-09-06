@@ -1,0 +1,2 @@
+# Semingswrep
+Repositarioseminarioinsw
